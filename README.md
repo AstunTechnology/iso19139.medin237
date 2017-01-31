@@ -1,6 +1,6 @@
 # MEDIN Discovery Metadata version 2.3.7 schema plugin
 
-This is the MEDIN Discovery Metadata version 2.3.7 schema plugin for GeoNetwork 3.x or greater version.
+This is the MEDIN Discovery Metadata version 2.3.7 schema plugin for GeoNetwork 3.0.x.
 
 ## Installing the plugin
 
