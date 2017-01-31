@@ -53,7 +53,7 @@
     <gco:Date>2014-01-01</gco:Date>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
-    <gco:CharacterString>MEDIN</gco:CharacterString>
+    <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
   </gmd:metadataStandardName>
   <gmd:metadataStandardVersion>
     <gco:CharacterString>2.3.7</gco:CharacterString>
@@ -97,7 +97,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Template for Vector data in UK MEDIN 2.3.7 rev2</gco:CharacterString>
+            <gco:CharacterString>Template for Vector data in UK MEDIN Discovery Metadata 2.3.7 rev2</gco:CharacterString>
           </gmd:title>
           <gmd:date>
             <gmd:CI_Date>
@@ -115,7 +115,7 @@
         </gmd:CI_Citation>
       </gmd:citation>
       <gmd:abstract>
-        <gco:CharacterString>This template has been created using the standard GeoNetwork template for datasets and applying some modifications according to the MEDIN 2.3.7 profile.</gco:CharacterString>
+        <gco:CharacterString>This template has been created using the standard GeoNetwork template for datasets and applying some modifications according to the MEDIN Discovery Metadata 2.3.7 profile.</gco:CharacterString>
       </gmd:abstract>
       <gmd:purpose>
         <gco:CharacterString />

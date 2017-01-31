@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-	Force metadata to have MEDIN 2.3.7 Metadata Standard and Version and fix gml namespaces
+	Force metadata to have MEDIN Discovery Metadata 2.3.7 Metadata Standard and Version and fix gml namespaces
 -->
 
 <xsl:stylesheet xmlns:geonet="http://www.fao.org/geonetwork"
@@ -13,11 +13,11 @@
 	version="2.0">
 	
 	<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" omit-xml-declaration="no"/>
-	<!--  Change standard to MEDIN  -->
+	<!--  Change standard to MEDIN Discovery Metadata  -->
 	<xsl:template match="gmd:metadataStandardName">
 		<xsl:message>==== Updating Metadata Standard Name ====</xsl:message>
 		<gmd:metadataStandardName>
-			<gco:CharacterString>MEDIN</gco:CharacterString>
+			<gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
 		</gmd:metadataStandardName>
 	</xsl:template>
 	
@@ -46,7 +46,7 @@
 			<xsl:if test="not(gmd:metadataStandardName)">
 				<xsl:message>==== Adding Metadata Standard Name ====</xsl:message>
 				<gmd:metadataStandardName>
-					<gco:CharacterString>MEDIN</gco:CharacterString>
+					<gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
 				</gmd:metadataStandardName>
 			</xsl:if>
 

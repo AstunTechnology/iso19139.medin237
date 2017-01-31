@@ -70,7 +70,7 @@
       <gco:DateTime>2005-03-31T19:13:30</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
-      <gco:CharacterString>MEDIN</gco:CharacterString>
+      <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
    </gmd:metadataStandardName>
    <gmd:metadataStandardVersion>
       <gco:CharacterString>2.3.7</gco:CharacterString>
@@ -169,7 +169,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Template for Raster data in UK MEDIN 2.3.7 rev2</gco:CharacterString>
+                  <gco:CharacterString>Template for Raster data in UK MEDIN Discovery Metadata 2.3.7 rev2</gco:CharacterString>
                </gmd:title>
                <gmd:date>
                   <gmd:CI_Date>
@@ -187,7 +187,7 @@
             </gmd:CI_Citation>
          </gmd:citation>
          <gmd:abstract>
-            <gco:CharacterString>This template has been created using the standard GeoNetwork template for raster data with modifications for the MEDIN 2.3.7 profile.</gco:CharacterString>
+            <gco:CharacterString>This template has been created using the standard GeoNetwork template for raster data with modifications for the MEDIN Discovery Metadata 2.3.7 profile.</gco:CharacterString>
          </gmd:abstract>
          <gmd:purpose>
             <gco:CharacterString/>
