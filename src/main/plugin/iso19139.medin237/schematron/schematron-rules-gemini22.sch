@@ -82,7 +82,6 @@
         </sch:rule>
     </sch:pattern> -->
 
-
      <!-- Next section commented out as is not part of the standard though it should be -->
     <!--METADATA STANDARD
     <sch:pattern>
@@ -96,7 +95,6 @@
             <sch:assert test="gmd:metadataStandardVersion/gco:CharacterString and gmd:metadataStandardVersion/gco:CharacterString= '2.2'">$loc/strings/UK999.alert.version</sch:assert>
         </sch:rule>
     </sch:pattern> -->
-    </sch:pattern>
 
     <!-- ORIGINAL RULES -->
 

@@ -15,7 +15,7 @@
 
   <xsl:import href="../../iso19139/present/metadata-edit.xsl"/>
 
-  <!-- main template - the way into processing MEDIN -->
+  <!-- main template - the way into processing GEMINI22 -->
   <xsl:template name="metadata-iso19139.medin237">
     <xsl:param name="schema"/>
     <xsl:param name="edit" select="false()"/>

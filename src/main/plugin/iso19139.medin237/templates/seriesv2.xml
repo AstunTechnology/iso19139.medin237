@@ -35,7 +35,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Template for Series data in MEDIN 2.3.7 rev2</gco:CharacterString>
+                  <gco:CharacterString>Template for Series data in UK MEDIN 2.3.7 rev2</gco:CharacterString>
                </gmd:title>
                <gmd:date/>
                <gmd:identifier/>

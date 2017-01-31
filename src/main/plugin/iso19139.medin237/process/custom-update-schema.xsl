@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--
-	Force metadata to have Gemini 2.3.7 Metadata Standard and Version and fix gml namespaces
+	Force metadata to have MEDIN 2.3.7 Metadata Standard and Version and fix gml namespaces
 -->
 
 <xsl:stylesheet xmlns:geonet="http://www.fao.org/geonetwork"

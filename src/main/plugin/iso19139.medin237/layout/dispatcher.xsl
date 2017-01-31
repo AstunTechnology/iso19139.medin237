@@ -10,7 +10,8 @@
   xmlns:gn-fn-iso19139="http://geonetwork-opensource.org/xsl/functions/profiles/iso19139"
   xmlns:saxon="http://saxon.sf.net/" extension-element-prefixes="saxon"
   exclude-result-prefixes="#all">
-  
+
+  <xsl:include href="evaluate.xsl"/>
   <xsl:include href="layout.xsl"/>
 
   <!-- Load the schema configuration for the editor -->
@@ -34,28 +35,4 @@
       <xsl:with-param name="labels" select="$iso19139.medin237labels"/>
     </xsl:apply-templates>
   </xsl:template>
-
-
-  <!-- The following templates usually delegates all to iso19139. -->
-  <xsl:template name="evaluate-iso19139.medin237">
-    <xsl:param name="base" as="node()"/>
-    <xsl:param name="in"/>
-    
-    <xsl:call-template name="evaluate-iso19139">
-      <xsl:with-param name="base" select="$base"/>
-      <xsl:with-param name="in" select="$in"/>
-    </xsl:call-template>
-  </xsl:template>
-
-  <xsl:template name="evaluate-iso19139.medin237-boolean">
-    <xsl:param name="base" as="node()"/>
-    <xsl:param name="in"/>
-
-    <xsl:call-template name="evaluate-iso19139-boolean">
-      <xsl:with-param name="base" select="$base"/>
-      <xsl:with-param name="in" select="$in"/>
-    </xsl:call-template>
-  </xsl:template>
-
-
 </xsl:stylesheet>
