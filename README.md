@@ -1,13 +1,12 @@
 # MEDIN 2.3.7 schema plugin
 
-This is the MEDIN 2.3.7 schema plugin for GeoNetwork 3.x or greater version.
+This is the MEDIN 2.3.7 schema plugin for GeoNetwork 3.2.x.
 
 ## Installing the plugin
 
 ### GeoNetwork version to use with this plugin
 
-Use GeoNetwork 3.2.0+ version.
-It'll not be supported in 2.10.x or 3.0.x series so don't plug it into it!
+This plugin is not supported with Geonetwork 2.10. The 3.0.x branch of this repository should be used for Geonetwork 3.0.x, this branch is for 3.2.x and layer only.
 
 ### Adding the plugin to the source code
 
