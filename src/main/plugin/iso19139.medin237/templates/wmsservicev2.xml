@@ -70,7 +70,7 @@
       <gco:DateTime>2008-11-17T23:12:03</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
-      <gco:CharacterString>MEDIN</gco:CharacterString>
+      <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
    </gmd:metadataStandardName>
    <gmd:metadataStandardVersion>
       <gco:CharacterString>2.3.7</gco:CharacterString>
@@ -80,7 +80,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Template for WMS Services data in MEDIN 2.3.7 rev2</gco:CharacterString>
+                  <gco:CharacterString>Template for WMS Services data in MEDIN Discovery Metadata 2.3.7 rev2</gco:CharacterString>
                </gmd:title>
                <gmd:alternateTitle gco:nilReason="missing"/>
                <gmd:date>

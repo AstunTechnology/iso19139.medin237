@@ -53,7 +53,7 @@
     <gco:Date>2014-01-01</gco:Date>
   </gmd:dateStamp>
   <gmd:metadataStandardName>
-    <gco:CharacterString>MEDIN</gco:CharacterString>
+    <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
   </gmd:metadataStandardName>
   <gmd:metadataStandardVersion>
     <gco:CharacterString>2.3.7</gco:CharacterString>
@@ -97,7 +97,7 @@
       <gmd:citation>
         <gmd:CI_Citation>
           <gmd:title>
-            <gco:CharacterString>Template for Vector data in MEDIN 2.3.7 rev2</gco:CharacterString>
+            <gco:CharacterString>Template for Vector data in MEDIN Discovery Metadata 2.3.7 rev2</gco:CharacterString>
           </gmd:title>
           <gmd:date>
             <gmd:CI_Date>

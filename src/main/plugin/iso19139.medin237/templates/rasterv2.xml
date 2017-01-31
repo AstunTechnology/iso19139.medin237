@@ -70,7 +70,7 @@
       <gco:DateTime>2005-03-31T19:13:30</gco:DateTime>
    </gmd:dateStamp>
    <gmd:metadataStandardName>
-      <gco:CharacterString>MEDIN</gco:CharacterString>
+      <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
    </gmd:metadataStandardName>
    <gmd:metadataStandardVersion>
       <gco:CharacterString>2.3.7</gco:CharacterString>
@@ -169,7 +169,7 @@
          <gmd:citation>
             <gmd:CI_Citation>
                <gmd:title>
-                  <gco:CharacterString>Template for Raster data in MEDIN 2.3.7 rev2</gco:CharacterString>
+                  <gco:CharacterString>Template for Raster data in MEDIN Discovery Metadata 2.3.7 rev2</gco:CharacterString>
                </gmd:title>
                <gmd:date>
                   <gmd:CI_Date>

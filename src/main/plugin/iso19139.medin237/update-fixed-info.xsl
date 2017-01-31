@@ -107,7 +107,7 @@
     <!-- Only set metadataStandardName and metadataStandardVersion if not set. -->
     <xsl:template match="gmd:metadataStandardName" priority="10">
         <xsl:copy>
-            <gco:CharacterString>MEDIN</gco:CharacterString>
+            <gco:CharacterString>MEDIN Discovery Metadata</gco:CharacterString>
         </xsl:copy>
     </xsl:template>
 	
