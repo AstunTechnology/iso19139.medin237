@@ -6,8 +6,7 @@ This is the MEDIN Discovery Metadata version 2.3.7 schema plugin for GeoNetwork 
 
 ### GeoNetwork version to use with this plugin
 
-Use GeoNetwork 3.0.3+ version.
-It'll not be supported in 2.10.x series so don't plug it into it!
+This plugin is suitable for Geonetwork 3.0.x. It will not work in Geonetwork 2.10.x. The 3.2.x branch of this repository should be used for Geonetwork 3.2 and later versions.
 
 ### Adding the plugin to the source code
 
